@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2790691
 license: CC0-1.0
+name: townnames
 type: townname
+url: https://github.com/NMBStype16/townnames
 version: 6
